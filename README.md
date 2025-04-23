@@ -1,4 +1,3 @@
-```markdown
 # WebcamBodyAnalytics
 
 A real-time computer vision project that analyzes 40 human body and environmental features using a standard webcam. It leverages Mediapipe, YOLOv8, OpenCV, and Scipy to track physiological, motion, facial, and environmental data, such as heart rate, breathing rate, facial expressions, eye gaze, and object detection.
